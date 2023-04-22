@@ -55,7 +55,11 @@ padding-right:40px;
 }
     .resumo p{
     padding-top:25px;
+<<<<<<< HEAD
     padding-left:15px;
+=======
+    padding-left:14px;
+>>>>>>> b03a162 (Versao 0.2 do curriculo)
 }
 .projeto{
     width:80px;
@@ -75,7 +79,11 @@ padding-right:40px;
     }
     .contato p{
         padding-top:25px;
+<<<<<<< HEAD
         padding-left:15px;
+=======
+        padding-left:12px;
+>>>>>>> b03a162 (Versao 0.2 do curriculo)
     }
 footer{
     display:flex;
@@ -91,7 +99,17 @@ footer{
 footer div p{
     align-self:center;
 }
+<<<<<<< HEAD
 @media screen and (max-width:500px){
+=======
+.copyright{
+    padding-top:15px;
+  }
+@media screen and (max-width:500px){
+    html,body{
+        text-align:center;
+    }
+>>>>>>> b03a162 (Versao 0.2 do curriculo)
   .nave{
     display:flex;
     flex-direction:column;
@@ -103,7 +121,11 @@ footer div p{
   .main-maior{
     display:flex;
     flex-direction:column;
+<<<<<<< HEAD
     margin-left:150px;
+=======
+    margin-left:180px;
+>>>>>>> b03a162 (Versao 0.2 do curriculo)
     
   }
   .main-maior img{
@@ -113,7 +135,24 @@ footer div p{
   .main-menor{
     display:flex;
   }
+<<<<<<< HEAD
   footer{
     display:flex;
     flex-direction: column;
   }
+=======
+  .resumo p{
+    margin-right:10px;
+  }
+  .contato p{
+    margin-right:10px;
+  }
+  .projeto p{
+    margin-right:10px;
+  }
+  footer{
+    display:flex;
+    flex-direction: column;
+  }
+ 
+>>>>>>> b03a162 (Versao 0.2 do curriculo)
